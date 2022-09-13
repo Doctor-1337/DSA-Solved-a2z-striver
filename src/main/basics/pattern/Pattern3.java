@@ -1,4 +1,4 @@
-package main.basics.pattern;
+package src.main.basics.pattern;
 
 
 //Pattern
