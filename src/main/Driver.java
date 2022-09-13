@@ -11,6 +11,7 @@ import src.main.basics.pattern.Pattern4;
 import src.main.basics.pattern.Pattern5;
 import src.main.basics.pattern.Pattern6;
 import src.main.basics.pattern.Pattern7;
+import src.main.basics.pattern.Pattern8;
 
 
 
@@ -52,7 +53,10 @@ public class Driver {
 			//Pattern6.printPattern6(n);
 			
 			//Pattern7
-			Pattern7.printPattern7(n);
+			//Pattern7.printPattern7(n);
+			
+			//Pattern8
+			Pattern8.printPattern8(n);
 
 			
 			
