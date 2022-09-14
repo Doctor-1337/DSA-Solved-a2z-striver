@@ -6,6 +6,13 @@ import java.io.InputStreamReader;
 
 import src.main.basics.pattern.Pattern1;
 import src.main.basics.pattern.Pattern10;
+import src.main.basics.pattern.Pattern11;
+import src.main.basics.pattern.Pattern12;
+import src.main.basics.pattern.Pattern13;
+import src.main.basics.pattern.Pattern14;
+import src.main.basics.pattern.Pattern15;
+import src.main.basics.pattern.Pattern16;
+import src.main.basics.pattern.Pattern17;
 import src.main.basics.pattern.Pattern2;
 import src.main.basics.pattern.Pattern3;
 import src.main.basics.pattern.Pattern4;
@@ -60,10 +67,33 @@ public class Driver {
 			//Pattern8
 			//Pattern8.printPattern8(n);
 
-			//Pattern
+			//Pattern9
 			//Pattern9.printPattern9(n);
 			
-			Pattern10.printPattern10(n);
+			//Pattern10
+			//Pattern10.printPattern10(n);
+			
+			//Pattern11
+			//Pattern11.printPattern11(n);
+			
+			//Pattern12
+			//Pattern12.printPattern12(n);
+			
+			//Pattern13
+			//Pattern13.printPattern13(n);
+			
+			//Pattern14
+			//Pattern14.printPattern14(n);
+
+			//Pattern15
+			//Pattern15.printPattern15(n);
+
+			
+			//Pattern16
+			//Pattern16.printPattern16(n);
+			
+			//Pattern17
+			//Pattern17.printPattern17(n);
 
 
 			
