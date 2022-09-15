@@ -13,7 +13,12 @@ import src.main.basics.pattern.Pattern14;
 import src.main.basics.pattern.Pattern15;
 import src.main.basics.pattern.Pattern16;
 import src.main.basics.pattern.Pattern17;
+import src.main.basics.pattern.Pattern18;
+import src.main.basics.pattern.Pattern19;
 import src.main.basics.pattern.Pattern2;
+import src.main.basics.pattern.Pattern20;
+import src.main.basics.pattern.Pattern21;
+import src.main.basics.pattern.Pattern22;
 import src.main.basics.pattern.Pattern3;
 import src.main.basics.pattern.Pattern4;
 import src.main.basics.pattern.Pattern5;
@@ -42,6 +47,16 @@ public class Driver {
 			}
 			
 			int n = Integer.parseInt(noOfLines);
+			
+//			try {
+//				noOfLines = reader.readLine();
+//			} catch (IOException e) {
+//				// TODO Auto-generated catch block
+//				e.printStackTrace();
+//			}
+//			
+//			int m = Integer.parseInt(noOfLines);
+//			
 	 
 			//Pattern1 
 			//Pattern1.printPattern1(n);
@@ -94,7 +109,21 @@ public class Driver {
 			
 			//Pattern17
 			//Pattern17.printPattern17(n);
+			
+			//Pattern18
+			//Pattern18.printPattern18(n);
 
+			//Pattern19
+			//Pattern19.printPattern19(n);
+			
+			//Pattern20
+			//Pattern20.printPattern20(n);
+			
+			//Pattern21
+			//Pattern21.printPattern21(n,m);
+			
+			//Pattern22
+			Pattern22.printPattern22(n);
 
 			
 	}
