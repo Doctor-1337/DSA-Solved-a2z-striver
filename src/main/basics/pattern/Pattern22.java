@@ -1,23 +1,26 @@
 package src.main.basics.pattern;
 
+
+//Pattern
+//444444444
+//433333334
+//432222234
+//432111234
+//432101234
+//432111234
+//432222234
+//433333334
+//444444444
+
+
 public class Pattern22 {
 	public static void printPattern22(int n) {
-		
-		for(int i=0;i<2*n-1;i++) {
-			int temp = n;
-			for(int j=0;j<2*n-1;j++) {
+		int maxLength = 2*n;
+		for(int i=0;i<=maxLength;i++) {
+			for(int j=0;j<=maxLength;j++) {
 				
-				System.out.print(temp);
+				System.out.print(n- Math.min(Math.min(i,j),Math.min(maxLength - i,maxLength - j)));
 				
-				if(j <= n) {
-				if(temp > n-i)
-					 temp--;
-				}
-				if(j>n) {
-				if(temp < n-i)
-					temp++;
-				}
-					
 					
 			}
 			System.out.println();

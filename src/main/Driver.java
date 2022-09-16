@@ -123,7 +123,7 @@ public class Driver {
 			//Pattern21.printPattern21(n,m);
 			
 			//Pattern22
-			Pattern22.printPattern22(n);
+			//Pattern22.printPattern22(n);
 
 			
 	}
