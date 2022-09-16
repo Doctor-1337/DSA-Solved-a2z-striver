@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+import src.main.basics.maths.Problem1;
+import src.main.basics.maths.Problem2;
 import src.main.basics.pattern.Pattern1;
 import src.main.basics.pattern.Pattern10;
 import src.main.basics.pattern.Pattern11;
@@ -124,6 +126,12 @@ public class Driver {
 			
 			//Pattern22
 			//Pattern22.printPattern22(n);
+			
+			//Problem 1 basics maths 
+			//Problem1.countNoOfDigs(n);
+			
+			//Problem 2 basics maths 
+			Problem2.revNum(n);
 
 			
 	}
