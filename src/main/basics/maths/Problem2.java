@@ -1,4 +1,4 @@
-package src.main.basics.maths;
+package main.basics.maths;
 
 public class Problem2 {
 	public static void revNum(int num) {

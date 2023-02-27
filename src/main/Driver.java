@@ -1,33 +1,12 @@
-package src.main;
+package main;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import src.main.basics.maths.Problem1;
-import src.main.basics.maths.Problem2;
-import src.main.basics.pattern.Pattern1;
-import src.main.basics.pattern.Pattern10;
-import src.main.basics.pattern.Pattern11;
-import src.main.basics.pattern.Pattern12;
-import src.main.basics.pattern.Pattern13;
-import src.main.basics.pattern.Pattern14;
-import src.main.basics.pattern.Pattern15;
-import src.main.basics.pattern.Pattern16;
-import src.main.basics.pattern.Pattern17;
-import src.main.basics.pattern.Pattern18;
-import src.main.basics.pattern.Pattern19;
-import src.main.basics.pattern.Pattern2;
-import src.main.basics.pattern.Pattern20;
-import src.main.basics.pattern.Pattern21;
-import src.main.basics.pattern.Pattern22;
-import src.main.basics.pattern.Pattern3;
-import src.main.basics.pattern.Pattern4;
-import src.main.basics.pattern.Pattern5;
-import src.main.basics.pattern.Pattern6;
-import src.main.basics.pattern.Pattern7;
-import src.main.basics.pattern.Pattern8;
-import src.main.basics.pattern.Pattern9;
+import main.basics.maths.*;
+import main.basics.pattern.*;
+
 
 
 
