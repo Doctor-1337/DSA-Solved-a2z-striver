@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class LongestSubArrayWithSumK {
 
-
+    //    https://www.geeksforgeeks.org/longest-sub-array-sum-k/
     //Always remember what is in the hasmap and what do we need to check
     //Maths is currSum - prevHashMapSum = K
     //prevHashMapSum = currSum - K (this is what we check in  hashmap)
