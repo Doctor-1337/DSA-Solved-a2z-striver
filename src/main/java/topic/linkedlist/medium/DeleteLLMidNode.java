@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 public class DeleteLLMidNode {
 
     //Easy tortoise hare method find mid, then at mid make it skip the next to next next, slow.next = slow.next.next;

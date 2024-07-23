@@ -1,8 +1,8 @@
-package topic.linkedlist.medium;
+package topic.linkedlist;
 
 public class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
     ListNode() {
     }

@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 public class FindCollisionPoint {
 
     //Suppose headB is of size 10, and headA is of size 8, then we move headB two forward, then compare both heads while iterating if they ever become

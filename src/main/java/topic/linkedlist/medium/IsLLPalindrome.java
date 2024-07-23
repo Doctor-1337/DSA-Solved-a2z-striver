@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 public class IsLLPalindrome {
 
 //    https://leetcode.com/problems/palindrome-linked-list/

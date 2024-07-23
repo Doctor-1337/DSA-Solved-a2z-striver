@@ -1,4 +1,4 @@
-package topic.linkedlist.medium.doubly;
+package topic.linkedlist.doubly.medium;
 
 import java.util.ArrayList;
 

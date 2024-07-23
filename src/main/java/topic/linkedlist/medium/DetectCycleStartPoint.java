@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 import java.util.*;
 
 public class DetectCycleStartPoint {

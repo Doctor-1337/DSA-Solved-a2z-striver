@@ -1,4 +1,4 @@
-package topic.linkedlist.medium.doubly;
+package topic.linkedlist.doubly.medium;
 
 public class DeleteRepeatingNodes {
     //Same as Delete all matching nodes just need to make sure to keep updating target as the last unique node.data

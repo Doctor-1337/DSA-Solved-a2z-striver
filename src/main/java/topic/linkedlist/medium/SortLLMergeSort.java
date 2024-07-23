@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 public class SortLLMergeSort {
 
     //Brute is populating an array sorting it then using it to re populate LL

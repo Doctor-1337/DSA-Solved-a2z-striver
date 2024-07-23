@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 public class FindMidOfLL {
 
     //Brute - > do 1 iteration till end of node, return counter

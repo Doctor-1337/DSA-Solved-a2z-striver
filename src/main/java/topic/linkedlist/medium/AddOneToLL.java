@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.Node;
+
 public class AddOneToLL {
 
     //It uses the concept of recursion reversal , we need to add from back

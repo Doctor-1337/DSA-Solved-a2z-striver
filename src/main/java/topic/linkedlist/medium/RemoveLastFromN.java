@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 public class RemoveLastFromN {
 
     //brute is counting total elements then going to total-n element and removing it

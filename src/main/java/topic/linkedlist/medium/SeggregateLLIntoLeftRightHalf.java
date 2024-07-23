@@ -1,10 +1,12 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 public class SeggregateLLIntoLeftRightHalf {
 
     //Put any condition inside if condition it will work,
     //take care of edge cases such as when left half is empty, right half is empty, all is empty, only one element
-    
+
     public ListNode oddEvenList(ListNode head) {
 
         ListNode odd = null;

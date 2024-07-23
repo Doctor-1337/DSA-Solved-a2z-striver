@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.ListNode;
+
 public class CycleLoopSize {
 
     //brute force is just using hashmap to find the start element where it collides i.e fastP = slowP,

@@ -1,5 +1,7 @@
 package topic.linkedlist.medium;
 
+import topic.linkedlist.Node;
+
 public class Sort012s {
     //Very tough pls revise
     static Node segregate(Node head) {
